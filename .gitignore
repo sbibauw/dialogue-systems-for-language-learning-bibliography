@@ -36,3 +36,4 @@ vignettes/*.pdf
 ~$*.xls*
 # Excel Backup File
 *.xlk
+.Rproj.user
