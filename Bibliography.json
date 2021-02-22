@@ -4351,6 +4351,7 @@
 	{
 		"id": "BibauwEtAl2022a",
 		"type": "article-journal",
+		"abstract": "The present study offers a meta-analysis of effectiveness studies on dialogue-based CALL, i.e., systems allowing a learner to practice a second language (L2) by interacting with a conversational agent (“bot”). Through a systematic inclusion and exclusion process, screening 419 publications, we identified 17 relevant meta-analysable studies. We made use of Morris and DeShon’s (2002) formulas to compute comparable effect sizes across designs, including k = 100 individual effect sizes, which were analysed through a multilevel random-effects model. Results confirm that dialogue-based CALL practice has a significant medium effect size on L2 proficiency development (d = 0.59). We performed extensive moderator analyses to explore the relative effectiveness on several learning outcomes of different types and features of dialogue-based CALL (type of interaction, modality, agent embodiment, etc.). In particular, our study confirms the effectiveness of form-focused and goal-oriented systems, system-guided interactions, corrective feedback provision, and gamification features. Significant effects for lower proficiency learners, and on vocabulary, morphosyntax, holistic proficiency and accuracy are established. Finally, we discuss evolutions to be expected in dialogue-based CALL and the language learning opportunities it offers.",
 		"container-title": "Language Learning & Technology",
 		"issue": "1",
 		"note": "ZSCC: 0000000",
@@ -16710,6 +16711,223 @@
 			"date-parts": [
 				[
 					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "StrikEtAl2012a",
+		"type": "paper-conference",
+		"event": "LREC 2012",
+		"page": "2702–2707",
+		"source": "Google Scholar",
+		"title": "The DISCO ASR-based CALL system: practicing L2 oral skills and beyond.",
+		"title-short": "The DISCO ASR-based CALL system",
+		"URL": "http://lrec.elra.info/proceedings/lrec2012/pdf/787_Paper.pdf",
+		"author": [
+			{
+				"family": "Strik",
+				"given": "Helmer"
+			},
+			{
+				"family": "Colpaert",
+				"given": "Jozef"
+			},
+			{
+				"family": "Doremalen",
+				"given": "Joost",
+				"non-dropping-particle": "van"
+			},
+			{
+				"family": "Cucchiarini",
+				"given": "Catia"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					9,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "StrikEtAl2009a",
+		"type": "paper-conference",
+		"event": "SLaTE 2009",
+		"page": "73–76",
+		"source": "Google Scholar",
+		"title": "Developing a CALL system for practicing oral proficiency: how to design for speech technology, pedagogy and learners",
+		"title-short": "Developing a CALL system for practicing oral proficiency",
+		"URL": "http://www.academia.edu/download/30505317/Strik_et_al_2009.pdf",
+		"author": [
+			{
+				"family": "Strik",
+				"given": "Helmer"
+			},
+			{
+				"family": "Cornillie",
+				"given": "Frederik"
+			},
+			{
+				"family": "Colpaert",
+				"given": "Jozef"
+			},
+			{
+				"family": "Doremalen",
+				"given": "Joost",
+				"non-dropping-particle": "van"
+			},
+			{
+				"family": "Cucchiarini",
+				"given": "Catia"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					9,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "CucchiariniEtAl2014a",
+		"type": "paper-conference",
+		"abstract": "In this paper we describe the language resources developed within the project “Feedback and the Acquisition of Syntax in Oral Proficiency” (FASOP), which is aimed at investigating the effectiveness of various forms of practice and feedback on the acquisition of syntax in second language (L2) oral proficiency, as well as their interplay with learner characteristics such as education level, learner motivation and confidence. For this purpose, use is made of a Computer Assisted Language Learning (CALL) system that employs Automatic Speech Recognition (ASR) technology to allow spoken interaction and to create an experimental environment that guarantees as much control over the language learning setting as possible. The focus of the present paper is on the resources that are being produced in FASOP. In line with the theme of this conference, we present the different types of resources developed within this project and the way in which these could be used to pursue innovative research in second language acquisition and to develop and improve ASR-based language learning applications.",
+		"container-title": "Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC 2014)",
+		"event-place": "Reykjavik, Iceland",
+		"page": "2708-2714",
+		"publisher": "ELRA",
+		"publisher-place": "Reykjavik, Iceland",
+		"source": "aclanthology.info",
+		"title": "ASR-based CALL systems and learner speech data: new resources and opportunities for research and development in second language learning",
+		"title-short": "ASR-based CALL systems and learner speech data",
+		"URL": "http://www.lrec-conf.org/proceedings/lrec2014/index.html",
+		"author": [
+			{
+				"family": "Cucchiarini",
+				"given": "Catia"
+			},
+			{
+				"family": "Bodnar",
+				"given": "Steve"
+			},
+			{
+				"family": "Penning de Vries",
+				"given": "Bart"
+			},
+			{
+				"family": "Hout",
+				"given": "Roeland",
+				"non-dropping-particle": "van"
+			},
+			{
+				"family": "Strik",
+				"given": "Helmer"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					4,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "DivekarEtAl2021a",
+		"type": "article-journal",
+		"abstract": "Artificial Intelligence (AI) and Extended Reality (XR) have been employed in several foreign language education applications to increase the availability of experiential learning methods akin to international immersion programs. However, research in multi-modal spoken dialogue in L2 combined with immersive technologies and collaborative learning is thin, limiting students’ experiences to solo interactions focused mostly on vocabulary and grammar in such settings. We intend to fill this gap as we present the Cognitive Immersive Language Learning Environment (CILLE). The AI in CILLE can hear, see, and understand its users and can engage with them in non-dyadic multimodal conversations. The XR offers students a feeling of being somewhere else without the use of intrusive devices and supports multi-party, multi-modal interactions. Together, AI and XR create naturalistic conversational interactions targeted towards comprehensive foreign language acquisition. We evaluate CILLE as a Chinese-as-a-foreign-language (CFL) education tool through a seven-week, mixed-methods study with university students (N = 10). Results display statistical significance and retained improvement in CFL vocabulary, comprehension, and conversation skills. Coupled with an analysis of student feedback and researcher observations, we show how CILLE is designed and experienced by students to learn CFL.",
+		"container-title": "Computer Assisted Language Learning",
+		"DOI": "10.1080/09588221.2021.1879162",
+		"ISSN": "0958-8221",
+		"note": "publisher: Routledge\n_eprint: https://doi.org/10.1080/09588221.2021.1879162",
+		"page": "to be published",
+		"source": "Taylor and Francis+NEJM",
+		"title": "Foreign language acquisition via artificial intelligence and extended reality: design and evaluation",
+		"title-short": "Foreign language acquisition via artificial intelligence and extended reality",
+		"URL": "https://doi.org/10.1080/09588221.2021.1879162",
+		"author": [
+			{
+				"family": "Divekar",
+				"given": "Rahul R."
+			},
+			{
+				"family": "Drozdal",
+				"given": "Jaimie"
+			},
+			{
+				"family": "Chabot",
+				"given": "Samuel"
+			},
+			{
+				"family": "Zhou",
+				"given": "Yalun"
+			},
+			{
+				"family": "Su",
+				"given": "Hui"
+			},
+			{
+				"family": "Chen",
+				"given": "Yue"
+			},
+			{
+				"family": "Zhu",
+				"given": "Houming"
+			},
+			{
+				"family": "Hendler",
+				"given": "James A."
+			},
+			{
+				"family": "Braasch",
+				"given": "Jonas"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					15
 				]
 			]
 		}
