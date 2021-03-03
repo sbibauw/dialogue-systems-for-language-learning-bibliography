@@ -16931,5 +16931,108 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "WallbridgeEtAl2018a",
+		"type": "paper-conference",
+		"abstract": "We conducted a study with 25 children to investigate the effectiveness of a robot measuring and encouraging production of spatial concepts in a second language compared to a human experimenter. Productive vocabulary is often not measured in second language learning, due to the difficulty of both learning and assessing productive learning gains. We hypothesized that a robot peer may help assessing productive vocabulary. Previous studies on foreign language learning have found that robots can help to reduce language anxiety, leading to improved results. In our study we found that a robot is able to reach a similar performance to the experimenter in getting children to produce, despite the person’s advantages in social ability, and discuss the extent to which a robot may be suitable for this task.",
+		"container-title": "Proceedings of the 6th International Conference on Human-Agent Interaction",
+		"DOI": "10.1145/3284432.3284433",
+		"event": "HAI '18: 6th International Conference on Human-Agent Interaction",
+		"event-place": "Southampton United Kingdom",
+		"ISBN": "978-1-4503-5953-5",
+		"language": "en",
+		"note": "tex.ids= WallbridgeEtAl2018",
+		"page": "54-60",
+		"publisher": "ACM",
+		"publisher-place": "Southampton United Kingdom",
+		"source": "DOI.org (Crossref)",
+		"title": "Using a robot peer to encourage the production of spatial concepts in a second language",
+		"URL": "https://dl.acm.org/doi/10.1145/3284432.3284433",
+		"author": [
+			{
+				"family": "Wallbridge",
+				"given": "Christopher D."
+			},
+			{
+				"family": "Berghe",
+				"given": "Rianne",
+				"non-dropping-particle": "van den"
+			},
+			{
+				"family": "Hernández Garcia",
+				"given": "Daniel"
+			},
+			{
+				"family": "Kanero",
+				"given": "Junko"
+			},
+			{
+				"family": "Lemaignan",
+				"given": "Séverin"
+			},
+			{
+				"family": "Edmunds",
+				"given": "Charlotte"
+			},
+			{
+				"family": "Belpaeme",
+				"given": "Tony"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "Kim2017",
+		"type": "article-journal",
+		"abstract": "The purpose of the present study is to understand the effects of different types of text-based chat on EFL students\" writing performance. 82 college freshmen participated in this study. They were taking a general English course, English 1, offered by a university in Korea. The experiment was carried out from March to June, 2016. Before the experiment began, participants were divided into three text-based chat groups: student-student, student-chatterbot, and student-native speaker chat groups. During the experimental period, they were asked to engage in text-based chat 20 minutes a week. Their writing performance on pre- and post-writing tests was scored both holistically and analytically using a writing scoring rubric. Major findings are as follows: First, both holistic and analytic writing scores in all groups positively changed over time as a result of participating in text-based chat. Furthermore, types of text-based chat had differential effects on language in use of participants\" writing performance. In terms of participants\" attitudes toward English learning, responses in all three groups were positively observed in general. Particularly, student-student text-based chat appeared to be more beneficial than the other two chat types. Limitations and suggestions are made based on these results.",
+		"container-title": "Korean Journal of Linguistics",
+		"DOI": "10.18855/lisoko.2017.42.3.003",
+		"issue": "3",
+		"language": "ko",
+		"note": "00002",
+		"page": "277-301",
+		"title": "Effects of different types of text-based chat on Korean EFL students’ writing performance",
+		"volume": "42",
+		"author": [
+			{
+				"family": "Kim",
+				"given": "Na-Young"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					6,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					9
+				]
+			]
+		}
 	}
 ]
